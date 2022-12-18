@@ -1,0 +1,16 @@
+@media screen and (max-width:780px) {
+  .box
+  {
+     height:100px;
+  }
+  .btn
+ {
+    width:110px;
+    height:30px;
+ }
+ .box1
+ {
+     font-size:10px;
+ }
+}
+

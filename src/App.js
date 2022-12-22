@@ -14,6 +14,7 @@ import GetData from './Test.js/getData';
 import Search from './Search/search';
 import Child3 from './Practice/child3';
 import Child2 from './Practice/child2';
+import Appss from './Login/App';
 
 const text = createContext()
 
@@ -45,7 +46,7 @@ const App = () => {
           {/* <Weather/> */}
           {/* <Login /> */}
 
-          <PostData />
+          {/* <PostData /> */}
 { /* 
           <Routes>
               <Route path='/' element={<PostData />} handleChange={handleChange}/>
@@ -63,6 +64,10 @@ const App = () => {
           <div>dc;lmc</div>
           <div>Dcsdclmsdncvdlcje</div>
       </Child1> */}
+
+      {/* <VehiclesTable /> */}
+
+      <Appss />
 
   </>)
 }
